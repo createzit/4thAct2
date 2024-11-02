@@ -418,6 +418,7 @@
   justify-content: space-between;
   margin-right: 2vw;
   margin-bottom: 2vw;
+  margin-left: 2vw;
 }
 
 .linkedin {
@@ -427,7 +428,6 @@
 .facebook {
   width: 4vw;
 }
-
 .youtube {
   width: 2vw;
 }
